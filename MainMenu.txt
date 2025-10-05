@@ -1,0 +1,23 @@
+22
+Load Image
+Save Image
+Flip Horizontal
+Flip Vertical
+Change the Brightness by a Factor
+Change the Contrast by a Factor
+Change the Sharpness by a Factor
+Crop a Part of the Image
+Scale Up the Image
+Scale Down the Image
+Combine Two Images
+Rotate the Image by 90 Degrees (Towards the Right)
+Rotate the Image by 90 Degrees (Towards the Left)
+Rotate the Image by an Angle Theta (Towards the Right)
+Rotate the Image by an Angle Theta (Towards the Left)
+Convert to Binary
+Calculate Edges
+Apply 3x3 Mean Filter
+Apply 3x3 Median Filter
+Apply 3x3 General Linear Filter
+Open the Image in the Respective Software
+Exit
